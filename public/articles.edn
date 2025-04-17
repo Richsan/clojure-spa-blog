@@ -1,0 +1,18 @@
+[{:id #uuid"bffab07e-1ad8-48ca-b1b2-3fab8856b27a"
+  :title "Lizzard"
+  :post-date "2024-10-14"
+  :article "test.md"
+  :summary
+  "Lizards are a widespread group of squamate reptiles, with over 6,000\n species, ranging across all continents except Antarctica"}
+ {:id #uuid"737a404d-654b-4c24-a1ca-cd2f5d63a62f"
+  :post-date "2024-08-20"
+  :title "Lizzard"
+  :article "test.md"
+  :summary
+  "Lizards are a widespread group of squamate reptiles, with over 6,000\n species, ranging across all continents except Antarctica"}
+ {:id #uuid"28f927c0-a877-4310-9686-26929b5887f7"
+  :post-date "2024-08-10"
+  :title "Lizzard"
+  :article "test.md"
+  :summary
+  "Lizards are a widespread group of squamate reptiles, with over 6,000\n species, ranging across all continents except Antarctica"}]
